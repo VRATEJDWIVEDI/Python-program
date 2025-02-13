@@ -1,6 +1,6 @@
 #SINGLE QUOTE STATEMEMTS
 
-print('Ansh keshari')
+print('vratej dwivedi')
 print('BCA')
 print('United University')
 print('Rawatpur')
@@ -25,8 +25,8 @@ print("Super over\n")
 
 #TRIPLE QUOTE STATEMEMTS
 
-print('''Ansh''')
-print('''Keshati''')
+print('''vratej''')
+print('''dwivedi''')
 print('''BCA''')
 print('''PHP''')
 print('''Instagram''')
@@ -39,9 +39,9 @@ print('''Bharat\n''')
 '''MULTI LINE STATEMENTS'''
 
 print('''MY NAME IS
-Ansh keshari\n''')
+vratej dwivedi\n''')
 print("""My address is varansi. \n""")
-print("""My DOB is 20/10/2005.\n""")
+print("""My DOB is 8 august 2005.\n""")
 print("""There are 3 Sections in BCA.\n""")
 print("""A , B & C\n""")
 print("""Python is 1st programing language for me.\n""")
